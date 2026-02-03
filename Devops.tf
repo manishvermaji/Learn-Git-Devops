@@ -1,6 +1,6 @@
 This is a terraform code
 learning new teraaform
 checking how to do it
-lets see if it works
-through commit
-let us see if it working
+ammended file to see if commit works
+checking again
+This is how it works to see how push  and commit works
